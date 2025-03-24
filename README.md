@@ -7,4 +7,4 @@ Web Developer
 I'm studying at FPT University.
 
 * 🌍  I'm based in Da Nang City
-* ✉️  You can contact me at [sonkksondepzai@gmail.com](mailto:sonkksondepzai@gmail.com)
+* ✉️  You can contact me at [limbo04112004@gmail.com](mailto:limbo04112004@gmail.com)
