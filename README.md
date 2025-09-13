@@ -59,7 +59,7 @@ My goal is to contribute my skills in real-world projects while continuously lea
   - Optimized SQL Server queries (35% faster response time)  
   - GitHub: [Backend](https://github.com/Ty142/ArtHub-SWP) | [Frontend](https://github.com/Vigclid/Frontend-SWP301)  
 
-- 💼 **FPT Software Da Nang (05/2025 - 09/2025)**  
+- 💼 **FPT Software Da Nang (03/2025 - 09/2025)**  
   *Role*: Full-Stack Developer  
   - Designed RESTful APIs & database schema  
   - Implemented **RBAC** for user authorization  
